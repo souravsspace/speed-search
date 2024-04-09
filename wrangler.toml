@@ -1,0 +1,6 @@
+name = "speed-search"
+compatibility_date = "2024-04-09"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN = "AcCCASQgMzEzZjkwNmQtZjdjMy00M2RmLWFjYmItMjczZmIwMmZmZDFjNGUzYTNmYTE2MGQzNDgyOGFjNDExYmJhZWRhNmUwMzU="
+UPSTASH_REDIS_REST_URL = "https://busy-gobbler-49282.upstash.io"
